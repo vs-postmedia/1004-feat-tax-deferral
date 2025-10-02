@@ -13,8 +13,8 @@
     import Steps from '$components/Steps.svelte';
 
     // SET CHART HEIGH & URL HERE...
-    const chartHeight = '575px';
-    const flourishStoryUrl = 'https://flo.uri.sh/story/975711/embed';
+    const chartHeight = '600px';
+    const flourishStoryUrl = 'https://flo.uri.sh/story/3358959/embed';
 
     // FUNCTIONS
     const updateStep = function(currentStep) {
@@ -32,6 +32,8 @@
             updateStep(currentStep );
         } else if (currentStep === 3) {
             updateStep(currentStep);
+        } else if (currentStep === 4) {
+            updateStep(currentStep);
         }
     };
 </script>
@@ -39,7 +41,7 @@
 <!-- MARKUP -->
 <section class="scrollyteller sticky">
     <header>
-        <h1>HED</h1>
+        <h1>B.C. property tax deferment costs nearly tripled in 10 years</h1>
         <p class="subhead">TK TK TK</p>
     </header>
     <div class="chart sticky">

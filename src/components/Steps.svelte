@@ -38,6 +38,6 @@
     .step-content {
         background: rgba(255,255,255,0.85);
         padding: 0.75rem 1rem;
-        max-width: 80%;
+        max-width: 500px;
     }
 </style>
