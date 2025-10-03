@@ -41,7 +41,7 @@
 <!-- MARKUP -->
 <section class="scrollyteller sticky">
     <header>
-        <h1>B.C. property tax deferment costs nearly tripled in 10 years</h1>
+        <h1>B.C. property tax deferrals costs more than tripled in 10 years</h1>
         <!-- <p class="subhead">TK TK TK</p> -->
     </header>
     <div class="chart sticky">
